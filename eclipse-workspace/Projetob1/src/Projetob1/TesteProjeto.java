@@ -39,7 +39,7 @@ public class TesteProjeto {
 				case 1: lista = filmes;break;
 				case 2: lista = series;break;
 				case 3: lista = musicas;break;
-				//case 4: lista = jogos;break;
+				case 4: lista = jogos;break;
 				case 5: lista = atividadesFisicas;break;
 				default:System.out.println("Opção inválida");break;
 			}
